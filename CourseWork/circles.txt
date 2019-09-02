@@ -1,0 +1,7 @@
+circle1: ox=40, oy=50, r=20;
+circle2: ox=300, oy=255, r=40;
+circle1: ox=30, oy=50, r=30;
+circle3: ox=83, oy=200, r=20;
+circle4: ox=50, oy=51, r=34;
+circle6: ox=250, oy=280, r=50;
+circle7: ox=290, oy=280, r=70;
